@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Dieu
+### 👋 Hi, I'm Dieu Vu (Demi)
 
 Software Engineer with experience building scalable web applications, backend services, and AI-powered products.
 
@@ -11,11 +11,11 @@ Software Engineer with experience building scalable web applications, backend se
 
 ### 🛠 Tech Stack
 
-Backend: NestJS, Node.js, Express, Ruby on Rails  
-Frontend: React, Next.js, Angular, TypeScript  
-Database: PostgreSQL, MySQL, Redis  
-Cloud & DevOps: Docker, AWS, CI/CD  
-AI: OpenAI, Gemini, Vector Databases, RAG
+- Backend: NestJS, Node.js, Express, Ruby on Rails  
+- Frontend: React, Next.js, Angular, TypeScript  
+- Database: PostgreSQL, MySQL, Redis  
+- Cloud & DevOps: Docker, AWS, CI/CD  
+- AI: OpenAI, Gemini, Vector Databases, RAG
 
 ### 🌱 Currently
 
